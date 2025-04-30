@@ -39,8 +39,9 @@ ________________________________________________________________________________
 
 
 
-📄 Lo que pide el documento ("Olympic_games_guide.pdf")
-El Comité Olímpico Internacional (COI) quiere:
+## 📄 Lo que pide el documento ("Olympic_games_guide.pdf")
+### El Comité Olímpico Internacional (COI) quiere:
+
 Analizar desigualdades en la representación de atletas por países y regiones.
 
 
@@ -53,9 +54,10 @@ Evaluar características físicas (altura, peso, edad) que influyen en el éxito
 Ver cómo han cambiado las participaciones a lo largo del tiempo.
 
 
-Objetivo final: fomentar una representación más inclusiva y justa en los Juegos.
-🔍 Qué más podrías analizar (ideas extra que te harían quedar brutal):
-Tendencias de participación por género
+## Objetivo final: fomentar una representación más inclusiva y justa en los Juegos.
+## 🔍 Qué más podrías analizar (ideas extra que te harían quedar brutal):
+
+### Tendencias de participación por género
 
 
 ¿Ha aumentado la participación femenina?
@@ -64,7 +66,7 @@ Tendencias de participación por género
 ¿Qué disciplinas son más paritarias?
 
 
-Edad promedio de los atletas por disciplina
+### Edad promedio de los atletas por disciplina
 
 
 ¿En qué deportes los atletas son más jóvenes?
@@ -73,7 +75,7 @@ Edad promedio de los atletas por disciplina
 ¿En qué deportes los atletas tienen carreras más largas?
 
 
-Relación entre características físicas y tipo de disciplina
+### Relación entre características físicas y tipo de disciplina
 
 
 ¿Atletas más altos/pesados dominan ciertos deportes (ej. baloncesto, remo)?
@@ -82,7 +84,7 @@ Relación entre características físicas y tipo de disciplina
 ¿Atletas más livianos predominan en otros (ej. gimnasia, natación)?
 
 
-Análisis geopolítico
+### Análisis geopolítico
 
 
 ¿Cómo influye el contexto histórico (guerras, crisis) en la participación?
@@ -91,7 +93,7 @@ Análisis geopolítico
 ¿Qué países emergieron como potencias en ciertos periodos?
 
 
-Medalleros históricos
+### Medalleros históricos
 
 
 ¿Qué países han crecido o caído en número de medallas a lo largo del tiempo?
@@ -100,7 +102,7 @@ Medalleros históricos
 ¿Se mantiene el dominio de unos pocos países?
 
 
-Atletas multimedallistas
+### Atletas multimedallistas
 
 
 ¿Cuántos atletas han ganado múltiples medallas?
@@ -109,7 +111,7 @@ Atletas multimedallistas
 ¿En qué disciplinas es más frecuente ganar varias?
 
 
-Duración de la carrera de un atleta olímpico
+### Duración de la carrera de un atleta olímpico
 
 
 ¿Cuántos Juegos suele participar un atleta promedio?
@@ -118,13 +120,13 @@ Duración de la carrera de un atleta olímpico
 ¿Cambió esta duración en los últimos 50 años?
 
 
-Análisis de ausencias
+### Análisis de ausencias
 
 
 ¿Qué atletas prometedores no compitieron finalmente (por edad de muerte temprana, guerras, boicots)?
 
 
-Comparación entre tipo de Juegos
+### Comparación entre tipo de Juegos
 
 
 Juegos Olímpicos de verano vs. invierno:
